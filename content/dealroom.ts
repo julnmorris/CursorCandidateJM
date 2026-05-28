@@ -45,7 +45,7 @@ export const dealroom = {
     "body": [
       "I am an enterprise seller with financial services expertise and credibility with experience selling into both technical and executive stakeholders, and a track record of adapting successfully across different product categories.",
       "Over the past 15+ years, I have sold front-office workflow platforms, data infrastructure, and enterprise transformation software into sophisticated buying environments spanning analysts, engineers, CIOs, COOs, and CFOs while navigating procurement and security processes within highly regulated customer organizations.",
-      "Cursor represents a rare convergence of category-defining product innovation and company-building momentum where leadership has articulated a convincing GTM motion through a combination of bottom-up engineering enthusiasm and top-down enterprise trust, governance, and ROI alignment."
+      "Cursor presents a unique opportunity to be part of a team with a real chance to be a leader in a new market category. I have sold to technical financial analysts and delivered ROI narratives to C-suite buyers; I was struck by Brian McCarthy's articulated GTM strategy: combining bottom-up technical motion with top-down executive alignment."
     ],
     "quickFacts": [
       {
@@ -67,11 +67,11 @@ export const dealroom = {
       "employer": "TRG Screen",
       "role": "Enterprise Account Executive",
       "dates": "OCT 2024 - Present",
-      "description": "Lead complex enterprise SaaS transformation sales into regulated financial institutions involving technical, operational, and executive stakeholders. I manage a book of existing customers (20%) and hunt proactively for new logos (80%). I own the sales life cycle from outbound prospecting to deal close and account ownership.",
+      "description": "Leading complex enterprise SaaS transformation sales into regulated financial institutions involving technical, operational, and executive stakeholders. I manage a book of existing customers (20%) and hunt proactively for new logos (80%). I own the sales life cycle from outbound prospecting to deal close and account ownership.",
       "achievements": [
         "Self-sourced new pipeline of $5M across 17 new opportunities within 6 months.",
         "Applied disciplined methodologies (MEDDPICC and Value Selling) to manage complex deals through procurement, info sec, multi-stakeholder committees and economic buyer objectives.",
-        "Top US new logo sales rep for 2025 at 172% of quota."
+        "Top new logo sales rep for 2025 at 172% of quota."
       ],
       "lessons": "Enterprise platform sales are won by aligning technical feasibility, operational execution, governance, and economic value. This requires the ability to execute a bottom-up and top-down approach simultaneously.",
       "relevance": "Closest analogue to Cursor enterprise selling: technical stakeholder trust, executive ROI justification, procurement/security navigation, and complex organizational change."
@@ -93,7 +93,7 @@ export const dealroom = {
       "employer": "LSEG",
       "role": "Account Executive",
       "dates": "FEB 2017 - JUL 2021",
-      "description": "Expanded into multi-product enterprise selling across workflow, data infrastructure, and compliance technology against stronger incumbents. My international journey took me from leading buyside sales initiatives in the Middle East to closing landmark deals on the US East coast.",
+      "description": "My focus was multi-product enterprise selling across workflow, data infrastructure, and compliance technology against stronger incumbents. My international journey took me from leading buyside sales initiatives in the Middle East to new logo deals on the US East coast.",
       "achievements": [
         "Spearheaded competitive displacements (over $3M) of stronger incumbents on workflows at tier 1 institutions (e.g. State Street, Fidelity, Goldman Sachs).",
         "Sold across multiple product categories including desktop workflow (Eikon), market data feeds (DataScope Select), and KYC/compliance solutions (World Check) requiring fast learning and demonstrated credibility.",
