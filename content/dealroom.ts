@@ -213,19 +213,19 @@ export const dealroom = {
       "notes": "Initial screen completed."
     },
     {
-      "label": "Hiring Manager Interview",
+      "label": "Chris Carr Interview",
       "status": "active" as StageStatus,
-      "date": "Add date",
-      "notes": "Current focus."
+      "date": "05/29",
+      "notes": "Current stage."
     },
     {
-      "label": "Team Interview",
+      "label": "Scott Blanc Interview",
       "status": "upcoming" as StageStatus,
       "date": "",
       "notes": "Pending scheduling."
     },
     {
-      "label": "Exercise / Case",
+      "label": "Final Stage",
       "status": "upcoming" as StageStatus,
       "date": "",
       "notes": "Placeholder."
