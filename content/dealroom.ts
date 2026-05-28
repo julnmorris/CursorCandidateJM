@@ -164,7 +164,7 @@ export const dealroom = {
   "caseStudies": [
     {
       "title": "Tier 1 investment bank",
-      "problem": "I inherited a stalled enterprise opportunity inside RBC, where a highly regulated buying process across market data, InfoSec, procurement, and legal threatened to kill momentum.",
+      "problem": "I inherited a stalled enterprise opportunity inside a global bank, where a highly regulated buying process across market data, InfoSec, procurement, and legal threatened to kill momentum.",
       "strategy": "Quantified the cost of delay, aligned business stakeholders, and secured executive (COO) sponsorship to escalate pressure on internal blockers.",
       "result": "Reopened momentum and advanced the deal through MSA and approval barriers."
     },
