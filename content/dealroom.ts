@@ -1,7 +1,7 @@
 export type StageStatus = "complete" | "active" | "upcoming";
 
 export const dealroom = {
-  "password": "cursor",
+  "password": "CursorCFA",
   "candidate": {
     "name": "Virtual Candidate Room",
     "roleSignal": "Cursor Financial Services GTM",
