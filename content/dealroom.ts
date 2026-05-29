@@ -207,7 +207,7 @@ export const dealroom = {
   ],
   "process": [
     {
-      "label": "HR Interview",
+      "label": "Tara Assari Interview",
       "status": "complete" as StageStatus,
       "date": "05/22",
       "notes": "Initial screen completed."
