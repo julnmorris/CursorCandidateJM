@@ -210,31 +210,31 @@ export const dealroom = {
       "label": "Tara Assari Interview",
       "status": "complete" as StageStatus,
       "date": "05/22",
-      "notes": "Initial screen completed."
+      "notes": "Initial screen completed"
     },
     {
       "label": "Chris Carr Interview",
-      "status": "active" as StageStatus,
+      "status": "complete" as StageStatus,
       "date": "05/29",
-      "notes": "Current stage."
+      "notes": "Interview completed"
     },
     {
-      "label": "Scott Blanc Interview",
-      "status": "upcoming" as StageStatus,
-      "date": "",
-      "notes": "Pending scheduling."
+      "label": "Team Interview",
+      "status": "active" as StageStatus,
+      "date": "06/03",
+      "notes": "Current stage"
     },
     {
-      "label": "Final Stage",
+      "label": "Challenge",
       "status": "upcoming" as StageStatus,
       "date": "",
-      "notes": "Placeholder."
+      "notes": "Placeholder"
     },
     {
       "label": "Offer",
       "status": "upcoming" as StageStatus,
       "date": "",
-      "notes": "Final stage."
+      "notes": "Final stage"
     }
   ]
 };
